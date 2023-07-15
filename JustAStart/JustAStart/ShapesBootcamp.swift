@@ -13,14 +13,14 @@ import SwiftUI
 
 struct ShapesBootcamp: View {
     var body: some View {
-//        Circle()
-////            .fill(Color.blue)
-////            .stroke(Color.red)
-////            .stroke(Color.blue, lineWidth: 30)
-////            .stroke(Color.orange, style:StrokeStyle(
-////                lineWidth: 20, lineCap: .round, dash: [30]))
-//            .trim(from: 0.05, to: 0.8)
-//            .stroke(Color.purple, style:StrokeStyle(lineWidth: 20, lineCap: .round))
+        Circle()
+//            .fill(Color.blue)
+//            .stroke(Color.red)
+//            .stroke(Color.blue, lineWidth: 30)
+//            .stroke(Color.orange, style:StrokeStyle(
+//                lineWidth: 20, lineCap: .round, dash: [30]))
+            .trim(from: 0.05, to: 0.8)
+            .stroke(Color.purple, style:StrokeStyle(lineWidth: 20, lineCap: .round))
         
         // much like the circle
 //        Ellipse()
@@ -34,8 +34,8 @@ struct ShapesBootcamp: View {
 //        Rectangle()
 //            .frame(width: 200, height: 100)
         
-        RoundedRectangle(cornerRadius: 20)
-            .frame(width: 200, height: 100)
+//        RoundedRectangle(cornerRadius: 20)
+//            .frame(width: 200, height: 100)
         
     }
 }
