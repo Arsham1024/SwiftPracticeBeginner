@@ -10,7 +10,14 @@ import SwiftUI
 struct ImageBootcamp: View {
     var body: some View {
         Image("Margot")
-            .frame(width: 20, height: 20)
+            .resizable()
+            .aspectRatio(contentMode: .fill)
+            .frame(width: 200, height: 200)
+//            .clipped()
+//            .cornerRadius(100)
+            .clipShape(
+                Circle()
+            )
     }
 }
 
