@@ -22,6 +22,7 @@
 		F0F15CD42A873C2C0039DFAB /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F15CD32A873C2C0039DFAB /* SafeAreaBootcamp.swift */; };
 		F0F15CD62A87457B0039DFAB /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F15CD52A87457B0039DFAB /* Buttons.swift */; };
 		F0F15CD82A87480C0039DFAB /* state.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F15CD72A87480C0039DFAB /* state.swift */; };
+		F0F15CDE2A8825F40039DFAB /* binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F15CDD2A8825F40039DFAB /* binding.swift */; };
 		F0F9435B2A6DB8CE0053041B /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F9435A2A6DB8CE0053041B /* FrameBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -42,6 +43,7 @@
 		F0F15CD32A873C2C0039DFAB /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SafeAreaBootcamp.swift; path = ../../../../SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		F0F15CD52A87457B0039DFAB /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Buttons.swift; path = ../../../../Buttons.swift; sourceTree = "<group>"; };
 		F0F15CD72A87480C0039DFAB /* state.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = state.swift; path = ../../../../state.swift; sourceTree = "<group>"; };
+		F0F15CDD2A8825F40039DFAB /* binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = binding.swift; path = ../../../../binding.swift; sourceTree = "<group>"; };
 		F0F9435A2A6DB8CE0053041B /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -77,6 +79,7 @@
 			children = (
 				F01711782A68D96300AC0B5E /* ColorsBootcamp.swift */,
 				F017117A2A68E0FD00AC0B5E /* IconsBootcamp.swift */,
+				F0F15CDD2A8825F40039DFAB /* binding.swift */,
 				F0A9FC3E2A6CA13C00F52005 /* ImageBootcamp.swift */,
 				F07A84302A85EB220082DFB0 /* ScrollViewBootCamp.swift */,
 				F0F15CD52A87457B0039DFAB /* Buttons.swift */,
@@ -178,6 +181,7 @@
 				F0F9435B2A6DB8CE0053041B /* FrameBootcamp.swift in Sources */,
 				F0F15CD42A873C2C0039DFAB /* SafeAreaBootcamp.swift in Sources */,
 				F0F15CD62A87457B0039DFAB /* Buttons.swift in Sources */,
+				F0F15CDE2A8825F40039DFAB /* binding.swift in Sources */,
 				F0555FE72A76DD8A005C465D /* PaddingBootcamp.swift in Sources */,
 				F0C5469C2A6360BE00D2CA5B /* ContentView.swift in Sources */,
 				F017117B2A68E0FD00AC0B5E /* IconsBootcamp.swift in Sources */,
