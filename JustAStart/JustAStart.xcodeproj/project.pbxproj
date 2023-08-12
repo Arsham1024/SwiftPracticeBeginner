@@ -23,6 +23,7 @@
 		F0F15CD62A87457B0039DFAB /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F15CD52A87457B0039DFAB /* Buttons.swift */; };
 		F0F15CD82A87480C0039DFAB /* state.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F15CD72A87480C0039DFAB /* state.swift */; };
 		F0F15CDA2A881B820039DFAB /* extractedfunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F15CD92A881B820039DFAB /* extractedfunctions.swift */; };
+		F0F15CDC2A8822D60039DFAB /* binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F15CDB2A8822D60039DFAB /* binding.swift */; };
 		F0F9435B2A6DB8CE0053041B /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F9435A2A6DB8CE0053041B /* FrameBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +45,7 @@
 		F0F15CD52A87457B0039DFAB /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Buttons.swift; path = ../../../../Buttons.swift; sourceTree = "<group>"; };
 		F0F15CD72A87480C0039DFAB /* state.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = state.swift; path = ../../../../state.swift; sourceTree = "<group>"; };
 		F0F15CD92A881B820039DFAB /* extractedfunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = extractedfunctions.swift; path = ../../../../extractedfunctions.swift; sourceTree = "<group>"; };
+		F0F15CDB2A8822D60039DFAB /* binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = binding.swift; path = ../../../../binding.swift; sourceTree = "<group>"; };
 		F0F9435A2A6DB8CE0053041B /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -89,6 +91,7 @@
 				F0F9435A2A6DB8CE0053041B /* FrameBootcamp.swift */,
 				F0C546A72A6361C900D2CA5B /* ShapesBootcamp.swift */,
 				F0F15CD92A881B820039DFAB /* extractedfunctions.swift */,
+				F0F15CDB2A8822D60039DFAB /* binding.swift */,
 				F0C546992A6360BE00D2CA5B /* JustAStartApp.swift */,
 				F0C5469B2A6360BE00D2CA5B /* ContentView.swift */,
 				F0F15CD72A87480C0039DFAB /* state.swift */,
@@ -179,6 +182,7 @@
 				F04C24E42A75DDF6004E6DB0 /* BackgroundBootcamp.swift in Sources */,
 				F0F15CD82A87480C0039DFAB /* state.swift in Sources */,
 				F0F9435B2A6DB8CE0053041B /* FrameBootcamp.swift in Sources */,
+				F0F15CDC2A8822D60039DFAB /* binding.swift in Sources */,
 				F0F15CD42A873C2C0039DFAB /* SafeAreaBootcamp.swift in Sources */,
 				F0F15CD62A87457B0039DFAB /* Buttons.swift in Sources */,
 				F0555FE72A76DD8A005C465D /* PaddingBootcamp.swift in Sources */,
